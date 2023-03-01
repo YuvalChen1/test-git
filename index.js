@@ -1,8 +1,16 @@
 console.log("Hi");
-function newFunc(){
+function newFunc() {
     return 1;
 }
 
-function myFunction(){
+function myFunction() {
+    return "Change";
+}
+
+function myFunction() {
+    return "Change";
+}
+
+function myFunction() {
     return "Change";
 }
